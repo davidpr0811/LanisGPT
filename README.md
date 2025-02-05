@@ -48,5 +48,6 @@ Nutze das Tool verantwortungsvoll! Stelle sicher, dass du damit keine Regeln ode
 
 ---
 
-![Starchart](https://starchart.cc/davidpr0811/LanisGPT.svg)
+[![Star History](https://api.star-history.com/svg?repos=davidpr0811/LanisGPT&type=Date)](https://star-history.com/#davidpr0811/LanisGPT)
+
 
