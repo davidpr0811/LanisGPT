@@ -33,3 +33,5 @@
 
 ## **⚠️ Hinweis**  
 Nutze das Tool verantwortungsvoll! Stelle sicher, dass du damit keine Regeln oder Datenschutzbestimmungen verletzt. 🚨  
+
+![GitHub Repo stars](https://starchart.cc/davidpr0811/LanisGPT.svg)  
