@@ -18,7 +18,7 @@
 ## **🚀 Installation & Nutzung**  
 1️⃣ Repository klonen:  
    ```bash
-   git clone https://github.com/deinusername/LanisHelper.git
+   git clone https://github.com/davidpr0811/LanisGPT.git
    cd LanisHelper
    ```  
 2️⃣ Abhängigkeiten installieren:  
