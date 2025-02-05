@@ -1,7 +1,3 @@
-Alles klar! Dann hier die angepasste Beschreibung für dein Node.js-Projekt:  
-
----
-
 # **LanisGPT – Automatisierter Hausaufgaben-Bot** 🤖📚  
 
 **LanisHelper** ist ein Node.js-Bot, der automatisch Hausaufgaben von Lanis herunterlädt, sie mit ChatGPT löst und als Word-Dokument speichert. Perfekt für alle, die ihren Workflow optimieren und sich wiederholende Aufgaben automatisieren wollen. 🚀  
