@@ -13,8 +13,11 @@
 - **Node.js** (JavaScript Runtime)  
 - **fetch** für Web-Automation 🌍  
 - **OpenAI API** für KI-gestützte Lösungen 🧠  
-- **docx** zur Generierung von Word-Dokumenten 📝  
-
+- **docx** zur Generierung von Word-Dokumenten 📝
+  
+## **🗓 Comming Soon**
+- **Datei Download** Automatisches Herunterladen von Dokumenten auf lanis
+  
 ## **🚀 Installation & Nutzung**
 1. Repository klonen:  
    ```bash
